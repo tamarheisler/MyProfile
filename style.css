@@ -61,7 +61,9 @@ p {
 p + p {
 
 }
-
+#MyLogo, #github_img, #sendEmail_img{
+  width: 10%
+}
 /**
  * Quotes & Blockquotes
  */
